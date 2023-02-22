@@ -15,10 +15,10 @@ def Run():
             xoss("\x1b[1;92m[●] Your Device 64 BIT 💥");time.sleep(1)
             xoss("\x1b[1;92m[●] FOLLOW MY CHANNEL THANKS");time.sleep(1)
             os.system("xdg-open https://T.me/DIVEL_TEAM_HACK")
-            import Akeng
+            import Wking64
         if bit == '32bit':
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
             xoss("\x1b[1;92m[●] Your Device 32 BIT 💥");time.sleep(1)
             xoss("\x1b[1;92m[●] FOLLOW MY CHANNEL THANKS");time.sleep(1)
             os.system("xdg-open https://T.me/DIVEL_TEAM_HACK")
-            import file32
+            import Wking32
