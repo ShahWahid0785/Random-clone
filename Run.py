@@ -13,14 +13,14 @@ def Run():
         if bit == '64bit':
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
             xoss("\x1b[1;92m[●] Your Device 64 BIT 💥");time.sleep(1)
-            xoss("\x1b[1;92m[●] FOLLOW MY GROUP THANKS");time.sleep(1)
+            xoss("\x1b[1;92m[●] JOIN MY TELEGRAM CHANNEL");time.sleep(1)
             os.system("xdg-open https://t.me/DIVEL_TEAM_HACK")
             import Wking64
 
         elif bit == '32bit':
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
             xoss("\x1b[1;92m[●] Your Device 32 BIT 💥");time.sleep(1)
-            xoss("\x1b[1;92m[●] FOLLOW MY GROUP");time.sleep(1)
+            xoss("\x1b[1;92m[●] JOIN MY TELEGRAM CHANNEL");time.sleep(1)
             os.system("xdg-open https://t.me/DIVEL_TEAM_HACK")
             import Wking32
             print(50*"-")
