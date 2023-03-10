@@ -4,7 +4,7 @@ def xoss(z):
         sys.stdout.write(e)
         sys.stdout.flush()
         time.sleep(0.02)
-xoss('\n\x1b[1;37m[●] Checking Update......✔️✔️');time.sleep(0.5)
+xoss('\n\x1b[1;37m[●] Checking Update....✔️✔️');time.sleep(0.5)
 os.system("git pull")
 def Update():
     exit('\033[1;31m[●] Commands On Update Please Wait For Update ❤ ')
