@@ -15,7 +15,7 @@ def Run():
             xoss("\x1b[1;92m[●] Your Device 64 BIT 💥");time.sleep(1)
             xoss("\x1b[1;92m[●] FOLLOW MY FACEBOOK ACCOUNT");time.sleep(1)
             os.system("xdg-open https://www.facebook.com/ShahWahid.Kunduzi.0785700/")
-            import Wking
+            import WKING64
 
         elif bit == '32bit':
             xoss("\x1b[1;92m[●] Congratulations ! Your Device Support this Tools 🙂");time.sleep(1)
