@@ -1,15 +1,1 @@
-1w-0w-3w-4w-9w-uw-0w-_w-aw-3w-4w-9
-1w-0w-4w-1w-0w-uw-0w-_w-aw-4w-1w-0
-1w-0w-3w-5w-4w-uw-0w-_w-aw-3w-5w-4
-1w-0w-5w-6w-2w-uw-0w-_w-aw-5w-6w-2
-1w-0w-3w-3w-6w-uw-0w-_w-aw-3w-3w-6
-1w-0w-3w-4w-8w-uw-0w-_w-aw-3w-4w-8
-1w-0w-4w-3w-8w-uw-0w-_w-aw-4w-3w-8
-1w-0w-3w-9w-3w-uw-0w-_w-aw-3w-9w-3
-1w-0w-3w-5w-0w-uw-0w-_w-aw-3w-5w-0
-1w-0w-5w-1w-2w-uw-0w-_w-aw-5w-1w-2
-1w-0w-1w-9w-6w-uw-0w-_w-aw-1w-9w-6
-1w-0w-3w-6w-2w-uw-0w-_w-aw-3w-6w-2
-1w-0w-2w-1w-3w-uw-0w-_w-aw-2w-1w-3
-1w-0w-2w-6w-5w-uw-0w-_w-aw-2w-6w-5
-1w-0w-3w-3w-1w-uw-0w-_w-aw-3w-3w-1
+
